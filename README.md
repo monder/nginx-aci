@@ -1,6 +1,6 @@
 ## nginx
 
-![GitHub tag](https://img.shields.io/github/tag/monder/nginx-aci.svg?style=flat-square)
+![GitHub tag](https://img.shields.io/github/release/monder/nginx-aci.svg?style=flat-square)
 ![nginx](https://img.shields.io/badge/nginx-1.11.3-green.svg?style=flat-square)
 ![openssl](https://img.shields.io/badge/openssl-1.0.2h-green.svg?style=flat-square)
 ![pcre](https://img.shields.io/badge/pcre-8.39-green.svg?style=flat-square)
