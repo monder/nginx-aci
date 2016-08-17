@@ -6,6 +6,7 @@
 ![pcre](https://img.shields.io/badge/pcre-8.39-green.svg?style=flat-square)
 ![musl](https://img.shields.io/badge/musl-1.1.14-green.svg?style=flat-square)
 ![zlib](https://img.shields.io/badge/zlib-1.2.8-green.svg?style=flat-square)
+[![Build Status](https://img.shields.io/travis/monder/nginx-aci.svg?style=flat-square)](https://travis-ci.org/monder/nginx-aci)
 
 The minimalistic `aci` that contains [nginx](http://nginx.org). Nothing else.
 
